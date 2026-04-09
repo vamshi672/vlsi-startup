@@ -1,3 +1,4 @@
 streamlit
 pyyaml
-
+pandas
+plotly
